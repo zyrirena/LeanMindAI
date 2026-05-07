@@ -1,0 +1,1 @@
+"""LeanMind AI backend."""
